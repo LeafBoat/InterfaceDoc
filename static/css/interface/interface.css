@@ -1,0 +1,25 @@
+.content {
+	width: 80%;
+	margin: 0 auto;
+}
+
+th{
+	font: bold;
+}
+
+.td{
+	width: 100%;
+	border: 0;
+}
+
+.table_type {
+	float: left;
+}
+
+#name {
+	width: 80%;
+}
+
+.action_add {
+	float: right;
+}
