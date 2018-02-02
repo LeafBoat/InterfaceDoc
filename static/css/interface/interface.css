@@ -1,25 +1,30 @@
+.menu {
+    width: 20%;
+    float: left;
+}
+
 .content {
-	width: 80%;
-	margin: 0 auto;
+    width: 80%;
+    float: left;
 }
 
-th{
-	font: bold;
+th {
+    font: bold;
 }
 
-.td{
-	width: 100%;
-	border: 0;
+.td {
+    width: 100%;
+    border: 0;
 }
 
 .table_type {
-	float: left;
+    float: left;
 }
 
 #name {
-	width: 80%;
+    width: 80%;
 }
 
 .action_add {
-	float: right;
+    float: right;
 }
